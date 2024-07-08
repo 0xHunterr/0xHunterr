@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Reda (0xHunterr)</h1>
-<h3 align="center">Offensive Security Engineer | Penetration Tester | Cloud Security Engineering</h3>
+<h3 align="center">Offensive Security Samurai | Penetration Tester | OSINT Investigator | Cloud Security Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xhunterr&label=Profile%20views&color=0e75b6&style=flat" alt="0xhunterr" /> </p>
 
