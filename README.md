@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Reda (0xHunterr)</h1>
+<h1 align="center">Hey folks👋, I'm Ahmed Reda (0xHunterr)</h1>
 <h3 align="center">Offensive Security Samurai | Penetration Tester | OSINT Investigator | Cloud Security Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xhunterr&label=Profile%20views&color=0e75b6&style=flat" alt="0xhunterr" /> </p>
@@ -7,12 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/hunterxreda" target="blank"><img src="https://img.shields.io/twitter/follow/hunterxreda?logo=twitter&style=for-the-badge" alt="hunterxreda" /></a> </p>
 
-- 🌱 I’m currently learning **APPSec | Go | Cloud Pentesting**
-- 🔭 I’m a CTO and Gopher @CyInnvoe
+- 🌱 I’m currently learning **APPSec | Cloud Pentesting | Go**
+- 🔭 I’m a CEO and Gopher [@CyInnvoe](https://github.com/CyInnove)
 - 📝 I regularly write articles on [Medium]("https://medium.com/@0xhunterr)
-- 📝 View My Notes [ My Notes and Blog](https://0xhunterr.gitbook.io/)
+- 📝 View [ My Notes and Blog](https://0xhunterr.gitbook.io/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Co:</h3>
 <p align="left">
 <a href="https://twitter.com/hunterxreda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hunterxreda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/0xhunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0xhunter" height="30" width="40" /></a>
