@@ -8,8 +8,9 @@
 <p align="left"> <a href="https://twitter.com/hunterxreda" target="blank"><img src="https://img.shields.io/twitter/follow/hunterxreda?logo=twitter&style=for-the-badge" alt="hunterxreda" /></a> </p>
 
 - 🌱 I’m currently learning **APPSec | Go | Cloud Pentesting**
-
-- 📝 View My Notes [https://0xhunterr.gitbook.io/](https://0xhunterr.gitbook.io/)
+- 🔭 I’m a CTO and Gopher @CyInnvoe
+- 📝 I regularly write articles on [Medium]("https://medium.com/@0xhunterr)
+- 📝 View My Notes [ My Notes and Blog](https://0xhunterr.gitbook.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
