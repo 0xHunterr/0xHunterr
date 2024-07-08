@@ -15,9 +15,11 @@
   
 - 📝 I regularly write articles on [Medium]("https://medium.com/@0xhunterr)
 
-- 📝 View [ My Notes and Blog](https://0xhunterr.gitbook.io/)
+- 📝 View [My Notes and Blog](https://0xhunterr.gitbook.io/)
 
-<h3 align="left">Co:</h3>
+- ⚡ Fun fact: I'm Vengeance I'm the Night I'm BATMAN 
+
+<h3 align="left">You can find me in one of my Bat Caves:</h3>
 <p align="left">
 <a href="https://twitter.com/hunterxreda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hunterxreda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/0xhunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0xhunter" height="30" width="40" /></a>
