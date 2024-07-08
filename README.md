@@ -7,9 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/hunterxreda" target="blank"><img src="https://img.shields.io/twitter/follow/hunterxreda?logo=twitter&style=for-the-badge" alt="hunterxreda" /></a> </p>
 
-- 🌱 I’m currently learning **APPSec | Cloud Pentesting | Go**
+- ♟ Offensive Security Intern [@ZINAD_IT](https://zinad.net/)
+
 - 🔭 I’m a CEO and Gopher [@CyInnvoe](https://github.com/CyInnove)
+
+- 🌱 I’m currently learning **APPSec | Cloud Pentesting | Go**
+  
 - 📝 I regularly write articles on [Medium]("https://medium.com/@0xhunterr)
+
 - 📝 View [ My Notes and Blog](https://0xhunterr.gitbook.io/)
 
 <h3 align="left">Co:</h3>
