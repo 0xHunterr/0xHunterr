@@ -17,7 +17,7 @@
 
 - 📝 View [My Notes and Blog](https://0xhunterr.gitbook.io/)
 
-- ⚡ Fun fact: I'm Vengeance I'm the Night I'm BATMAN 
+- ⚡ Fun fact: I'm Vengeance I'm the Night I'm **BATMAN** 
 
 <h3 align="left">You can find me in one of my Bat Caves:</h3>
 <p align="left">
