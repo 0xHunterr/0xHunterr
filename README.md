@@ -1,11 +1,11 @@
 <h1 align="center">Hey folks👋, I'm Ahmed Reda (0xHunterr)</h1>
 <h3 align="center">Offensive Security Samurai | Penetration Tester | OSINT Investigator | Cloud Security Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xhunterr&label=Profile%20views&color=0e75b6&style=flat" alt="0xhunterr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xHunterr&label=Profile%20views&color=0e75b6&style=flat" alt="0xHunterr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xhunterr" alt="0xhunterr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xHunterr" alt="0xHunterr" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hunterxreda" target="blank"><img src="https://img.shields.io/twitter/follow/hunterxreda?logo=twitter&style=for-the-badge" alt="hunterxreda" /></a> </p>
+<p align="left"> <a href="https://twitter.com/HunterXReda" target="blank"><img src="https://img.shields.io/twitter/follow/hunterxreda?logo=twitter&style=for-the-badge" alt="HunterXReda" /></a> </p>
 
 - ♟ Offensive Security Intern [@ZINAD_IT](https://zinad.net/)
 
