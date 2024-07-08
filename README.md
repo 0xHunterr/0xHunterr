@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **APPSec | Cloud Pentesting | Go**
   
-- 📝 I regularly write articles on [Medium]("https://medium.com/@0xhunterr)
+- 📝 I regularly write articles on [Medium](https://medium.com/@0xhunterr)
 
 - 📝 View [My Notes and Blog](https://0xhunterr.gitbook.io/)
 
