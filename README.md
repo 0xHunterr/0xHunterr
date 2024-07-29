@@ -9,7 +9,7 @@
 
 - ♟ Offensive Security Intern [@ZINAD_IT](https://zinad.net/)
 
-- 🔭 I’m a CEO and Gopher [@CyInnvoe](https://github.com/CyInnove)
+- 🔭 I’m a Co-Founder and Gopher [@CyInnvoe](https://github.com/CyInnove)
 
 - 🌱 I’m currently learning **APPSec | Cloud Pentesting | Go**
   
