@@ -1,5 +1,5 @@
-<h1 align="center">Hey folks👋, I'm Ahmed Reda (0xHunterr)</h1>
-<h3 align="center">OffSec Samurai | Pentester | CTF Player | OSINT Investigator | Cloud Security Engineer</h3>
+<h1 align="center">Hello all, I'm MR_Reda (0xHunterr)</h1>
+<h3 align="center">OffSec Samurai | Pentester | Noob PT Bug Hunter |Noob OSINT Investigator | Cloud Security enthusi </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xHunterr&label=Profile%20views&color=0e75b6&style=flat" alt="0xHunterr" /> </p>
 
