@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/HunterXReda" target="blank"><img src="https://img.shields.io/twitter/follow/hunterxreda?logo=twitter&style=for-the-badge" alt="HunterXReda" /></a> </p>
 
-- ♟ Offensive Security Intern [@ZINAD_IT](https://zinad.net/)
+- ♟ Offsec Samurai [@CYLERT](http://cylert-me.com/)
 
-- 🔭 I’m a Co-Founder and Gopher [@CyInnvoe](https://github.com/CyInnove)
+- 🔭 I’m a Co-Founder and the CEO [@CyInnvoe](https://github.com/CyInnove)
 
 - 🌱 I’m currently learning **APPSec | Cloud Pentesting | Go**
   
