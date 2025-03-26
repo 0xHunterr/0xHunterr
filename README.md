@@ -24,8 +24,8 @@
 <a href="https://twitter.com/HunterXReda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HunterXReda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/0xhunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0xhunter" height="30" width="40" /></a>
 <a href="https://fb.com/0xHunterr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="0xHunterr" height="30" width="40" /></a>
-<a href="https://instagram.com/0xhunterr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xhunterr" height="30" width="40" /></a>
-<a href="https://medium.com/@0xhunterr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@0xhunterr" height="30" width="40" /></a>
+<a href="https://instagram.com/z.red4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xhunterr" height="30" width="40" /></a>
+<a href="https://zred4.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@0xhunterr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
