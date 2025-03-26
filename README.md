@@ -1,5 +1,5 @@
-<h1 align="center">Hello all, I'm Mr.Reda (0xHunterr)</h1>
-<h3 align="center"> OffSec Samurai | Pentester | Noob Bug Hunter | OSINT Investigator | Cloud Security enthusiast </h3>
+<h1 align="center">Hello all, This is Ahmed Reda (zRed4)</h1>
+<h3 align="center"> OffSec Samurai | Co-Founder @CyInnove | OSINT Investigator </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xHunterr&label=Profile%20views&color=0e75b6&style=flat" alt="0xHunterr" /> </p>
 
@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **APPSec | Cloud Pentesting | Go**
   
-- 📝 I regularly write articles on [Medium](https://medium.com/@0xhunterr)
+- 📝 I regularly write articles on [Medium](https://zred4.medium.com/)
 
 - 📝 View [My Notes and Blog](https://0xhunterr.gitbook.io/)
 
-- ⚡ Fun fact: I'm Vengeance I'm the Night I'm **BATMAN** 
+- ⚡ Fun fact: I'm Vengeance, I'm the Night, I'm **BATMAN** 
 
 <h3 align="left">You can find me in one of my Bat Caves:</h3>
 <p align="left">
